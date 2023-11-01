@@ -1,0 +1,15 @@
+<doc>
+<webscript type="ansible" name="BitrixTest">
+<settings>
+<filename>bitra.tar.gz</filename>
+<playbook>playbook.yml</playbook>
+</settings>
+<mgr>
+<minimal_version>6.0.0</minimal_version>
+</mgr>
+<required>
+<php version="8.0"> </php>
+<database type="mysql" version="5.6"/>
+</required>
+</webscript>
+</doc>
